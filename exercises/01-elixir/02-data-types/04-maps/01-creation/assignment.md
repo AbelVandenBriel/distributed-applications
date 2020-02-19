@@ -1,6 +1,6 @@
 # Assignment
 
-As good as every language offers at least two types of containers:
+Just about every language offers at least two types of containers:
 
 * Sequence containers
   * C#: `List<T>`, `T[]`
